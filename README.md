@@ -7,4 +7,5 @@
 🕵🏻 I especially love stories about globalization, urbanization, gender, culture, and community
 
 🧰 Tools I use: Python, Svelte, D3.js, Mapbox, QGIS, Illustrator, Photoshop, After Effects
+<br>
 ⚙️ Tools I'd like to learn: R, spaCy, Leaflet, React, p5.js
